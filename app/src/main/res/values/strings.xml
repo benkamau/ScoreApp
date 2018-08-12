@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ScoreApp</string>
+    <string name="Team_b">Real Madrid</string>
+    <string name="Team_a">FC Barcelona</string>
+    <string name="score">Goals</string>
+    <string name="number">0</string>
+    <string name="penalty">Penalty</string>
+    <string name="Foul">Foul</string>
+    <string name="card_y">Yellow</string>
+    <string name="Card_r">Red</string>
+    <string name="corner">Corner Kick</string>
+    <string name="Exit">Quit</string>
+    <string name="Reset">Reset</string>
+</resources>
